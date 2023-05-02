@@ -15,8 +15,8 @@ public class TestProg4 {
 	public static void checkRemoveAtIndex() {
 		
 
-		
-		int array1[] = {1,5,3,6,8,5,6,3,0,9,11,23,11,45};
+
+		int array1[] = {1,5,3,6,8,5,6,3,0,9,11,23,11,98,45};
 		
 		List<Integer> numList = new ArrayList<Integer>();
 		for(int i : array1) {
