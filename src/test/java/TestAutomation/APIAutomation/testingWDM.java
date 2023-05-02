@@ -11,7 +11,7 @@ public class testingWDM {
 		// TODO Auto-generated method stub
 
 		WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver();
+		WebDriver driver = new ChromeDriver();//comment at line 14 from github ui
 		
 //		WebDriver driver = WebDriverManager.chromedriver().create();
 		
