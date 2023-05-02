@@ -18,7 +18,7 @@ public class testingWDM {
 		driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
-		driver.quit();
+		driver.quit();//comment at line 21 from local
 		
 	}
 
