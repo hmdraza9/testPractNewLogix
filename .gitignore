@@ -1,0 +1,46 @@
+##Reports##
+report/
+reports/
+/target/
+*.zip
+*.gz
+
+### Execution output ###
+log/
+logs/
+target/
+*.html
+**/Config.xlsx
+/resources/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.settings
+.project
+.classpath
+/resources/*.exe
+test.java
+bin/*
+target/*
+/target
+debug.log
+/org.eclipse.core.resources.prefs
+/org.eclipse.jdt.core.prefs
+/org.eclipse.m2e.core.prefs
+
+### Mac OS ###
+.DS_Store
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/bin/
